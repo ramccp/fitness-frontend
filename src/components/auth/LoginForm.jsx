@@ -100,10 +100,6 @@ export function LoginForm() {
             </Button>
           </form>
 
-          <div className="mt-6 text-center text-sm text-muted-foreground">
-            <p>Demo credentials:</p>
-            <p className="font-mono text-xs mt-1">admin@fitnessapp.com / admin123</p>
-          </div>
         </CardContent>
       </Card>
     </div>
